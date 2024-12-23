@@ -61,12 +61,12 @@ L'orbe de Vaal est un objet puissant qui peut modifier les objets de manière im
 *  **Ajouter un enchantement corrompu**.
 *  **Retirer un mod explicite**.
 
-### Pierres de chemin (Waystones) :
+### Pierres de téléportation (Waystones) :
 
 *   **Ne rien faire**.
 *   **Augmenter ou diminuer le niveau de la carte** : Les modificateurs de la carte sont également aléatoirement changés.
 *   **Relancer la moitié des modificateurs explicites**.
-*  **Transformer la pierre de chemin en objet rare avec 6 affixes**.
+*  **Transformer la pierre de téléportation en objet rare avec 6 affixes**.
 
 ## Fonctionnement du Présage de Corruption
 
@@ -80,7 +80,7 @@ Cependant, **plusieurs affixes peuvent recevoir la relance x0.78 -> x1.22** sur 
 
 Le document souligne que le Présage de Corruption est sous-évalué et peut générer une **valeur, des profits et des objets importants**. Son importance croît avec la valeur de l'objet corrompu.
 
-*   Par exemple, il est inutile sur les pierres de chemin car l'effet "ne rien faire" a peu d'impact.
+*   Par exemple, il est inutile sur les pierres de téléportation car l'effet "ne rien faire" a peu d'impact.
 *   Cependant, sur un **objet unique coûteux**, un **joyau parfait** ou une **gemme 20/20 avec 5 chasses**, le Présage de Corruption est très intéressant car il augmente considérablement les chances d'améliorer l'objet. Sur un objet unique, par exemple, les chances d'obtenir une amélioration (chasse, enchantement ou amélioration de la plage d'affixes) sont de 75%, la seule issue défavorable étant la réduction de la plage d'affixes.
 *   L'auteur a fait plusieurs *divines* en utilisant des orbes de Vaal sur des uniques qu'il aurait vendus autrement, grâce à la chasse supplémentaire ou à l'augmentation de la plage au-dessus de 100% du maximum de base.
 *   Au moment de la rédaction, les Présages de Corruption ne coûtent que 40 *exalts*, ce qui est peu comparé à d'autres objets de modification.
