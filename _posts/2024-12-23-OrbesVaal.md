@@ -14,7 +14,6 @@ date: 2024-12-23
 
 # Orbes Vaal
 
-_Bases et astuces pour bien utiliser les Orbes Vaal dans POE2_
 
 </header>
 
