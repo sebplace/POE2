@@ -1,7 +1,7 @@
 ---
 
 
-![Path of Exile 2](https://pathofexile.com/image.jpg)
+[Path of Exile 2](https://pathofexile.com/image.jpg)
 
 ## À propos de Path of Exile 2
 Path of Exile 2 est la suite tant attendue du célèbre jeu d'action-RPG. Découvrez les dernières nouvelles, les guides, et les astuces pour maîtriser le jeu.
