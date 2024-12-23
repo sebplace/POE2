@@ -12,9 +12,6 @@ date: 2024-12-23
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Orbes Vaal
-
-
 </header>
 
 <!--
