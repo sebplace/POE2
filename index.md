@@ -1,10 +1,6 @@
----
-Mes notes sur Path Of Exile 2
+# Mes notes sur Path Of Exile 2
 ---
 
---Test--
-
-# Bienvenue sur mon blog Path of Exile 2
 
 ![Path of Exile 2](https://pathofexile.com/image.jpg)
 
