@@ -1,4 +1,7 @@
-# Guide de Collecte des Pierres de Téléportation (Waystones) dans Path of Exile 2
+---
+title: "Guide de Collecte des Pierres de Téléportation"
+date: 2024-12-23
+---
 
 Ce guide a pour objectif de vous aider à optimiser votre collecte de Pierres de téléportation, un élément crucial pour progresser dans l'endgame de Path of Exile 2. Les Pierres de téléportation sont nécessaires pour débloquer les points de compétence de l'Atlas et progresser dans les niveaux de cartes, du vert au jaune puis au rouge.
 
